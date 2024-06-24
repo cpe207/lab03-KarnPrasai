@@ -1,0 +1,62 @@
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 22%, rgba(0,212,255,1) 100%);
+    font-family: "Tiny5";
+}
+.menu{
+    background-color: rgb(21, 110, 184);
+}
+
+.profile{
+    background-color: rgb(242, 255, 255);
+    border: 2px solid rgb(94, 183, 255);
+    border-radius: 30px;
+}
+
+.Skills{
+    background-color: rgb(242, 255, 255);
+    border: 3px solid rgb(64, 128, 180);
+    border-radius: 30px;
+    padding: 1%;
+}
+.Exp{
+    background-color: rgb(242, 255, 255);
+    border: 3px solid rgb(91, 181, 255);
+    border-radius: 30px;
+    
+}
+
+.Hobby{
+    background-color: rgb(242, 255, 255);
+    border: 7px solid rgb(67, 135, 190);
+    border-radius: 30px;
+    margin-top: 50px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    text-align: center;
+    
+}
+
+.Contact{
+    background-color: rgb(242, 255, 255);
+    border: 7px solid rgb(67, 135, 190);
+    border-radius: 30px;
+    text-align: center;
+}
+h1{
+    color: rgb(1, 1, 65);
+    font-weight: bold;
+    font-size: 45px;
+}
+h2{
+    font-size: 35px;
+    font-weight: bold;
+}
+h3{
+    font-style: italic;
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+    padding-left: 20px;
+}
